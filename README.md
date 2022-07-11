@@ -45,8 +45,8 @@ cd FavoritesCryptos
 
 ## 👨🏽‍💻 Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/AlexDamiao86" width=115><br><sub>Alexandre Damião Mendonça Maia</sub>](https://github.com/AlexDamiao86) |  [<img src="https://avatars.githubusercontent.com/FabioQuimico" width=115><br><sub>Fabio Ferreira dos Santos</sub>](https://github.com/FabioQuimico) |  [<img src="https://avatars.githubusercontent.com/" width=115><br><sub>Gabriel Oliveira Barbosa</sub>](https://github.com/) | [<img src="https://avatars.githubusercontent.com/ferreirabraga" width=115><br><sub>Rafael Braga da Silva Ferreira</sub>](https://github.com/ferreirabraga) |  [<img src="https://avatars.githubusercontent.com/" width=115><br><sub>Rafael Oliveira Borges</sub>](https://github.com/) |
-| :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/AlexDamiao86" width=115><br><sub>Alexandre Damião Mendonça Maia</sub>](https://github.com/AlexDamiao86) |  [<img src="https://avatars.githubusercontent.com/FabioQuimico" width=115><br><sub>Fabio Ferreira dos Santos</sub>](https://github.com/FabioQuimico) |  [<img src="https://avatars.githubusercontent.com/" width=115><br><sub>Gabriel Oliveira Barbosa</sub>](https://github.com/) | [<img src="https://avatars.githubusercontent.com/ferreirabraga" width=115><br><sub>Rafael Braga da Silva Ferreira</sub>](https://github.com/ferreirabraga) | 
+| :---: | :---: | :---: | :---: |
 
 > Projeto realizado como requisito para conclusão da disciplina Mobile Platform do MBA Full Stack Development - FIAP 2022
 > Prof. Marcelo Pinheiro Montanher (https://github.com/marcelopmont)
