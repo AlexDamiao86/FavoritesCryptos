@@ -41,7 +41,6 @@ cd FavoritesCryptos
 - [IDE Android Studio](https://developer.android.com/studio)
 - [Firebase](https://firebase.google.com)
     - [Firebase Authentication](https://firebase.google.com/products/auth)
-    - [Firebase Cloud Firestore](https://firebase.google.com/products/firestore)
 
 ## 👨🏽‍💻 Desenvolvedores
 
