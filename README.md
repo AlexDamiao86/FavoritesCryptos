@@ -9,7 +9,7 @@ Aplicação desenvolvida com o framework Flutter que atende as funcionalidades r
 2. Cadastrar usuário 
 3. Autenticar usuário
 4. Listar crypto moedas 
-5. Favoritar crypto moedas (gravar crypto moeda como favorita em base de dados)
+5. Favoritar crypto moedas 
 6. Listar crypto moedas favoritas
 
 ## Protótipo 
